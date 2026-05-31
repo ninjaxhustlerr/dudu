@@ -1,6 +1,6 @@
 
  <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
-  <h4>This software is exclusively designed for educational purposes ⚠️</h4>
+  <h4>This software is exclusively designed for fk purposes ⚠️</h4>
   <p>
     <img src="images/logo.PNG" alt="logo" style="max-width: auto; height: auto;" />
   </p>
